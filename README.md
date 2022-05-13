@@ -1,5 +1,8 @@
 # Recommender Systems
 
+In this project, we will build a recommendation system to predict the ratings of movies in the
+provided dataset.
+
 The increasing importance of the web as a medium for electronic and business transactions
 and advertisement, and social media has served as a driving force behind the development of
 recommender systems technology. Among the benefits, recommender systems provide a means
